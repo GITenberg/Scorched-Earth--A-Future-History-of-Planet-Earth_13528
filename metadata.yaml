@@ -1,0 +1,25 @@
+_repo: Scorched-Earth--A-Future-History-of-Planet-Earth_13528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petrovic, Walter D.
+    birthdate: 1960
+    gutenberg_agent_id: '5115'
+    url: http://www.gutenberg.org/2009/agents/5115
+description: ''
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13528'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: 'Scorched Earth: A Future History of Planet Earth'
+url: http://www.gutenberg.org/ebooks/13528
